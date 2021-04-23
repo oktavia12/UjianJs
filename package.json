@@ -1,0 +1,14 @@
+{
+  "name": "com.ujianoktajs.main",
+  "version": "1.0.0",
+  "description": "Ujian",
+  "main": "draw.js",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node draw.js"
+    
+  },
+  "author": "Okta",
+  "license": "ISC"
+}
